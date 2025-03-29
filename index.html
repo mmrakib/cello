@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+    
+        <!-- Viewport Scaling -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <!-- Content Security Policy -->
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'unsafe-inline';" />
+    
+        <!-- Content Type Options to prevent MIME sniffing -->
+        <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    
+        <!-- Referrer policy to control when to send Referer header to protect user privacy -->
+        <meta name="referrer" content="origin-when-cross-origin" />
+    
+        <title>Electron Template</title>
+    </head>    
+    <body>
+        <div id="root"></div>
+
+        <script type="module" src="/src/renderer.tsx"></script>
+    </body>
+</html>
