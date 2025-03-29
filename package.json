@@ -2,7 +2,7 @@
     "name": "electron_template",
     "version": "0.1.0",
     "description": "A generic template for an Electron application using Typescript, Vite and Forge.",
-    "license": "MIT",
+    "license": "AGPL-3.0-or-later",
     "author": {
         "name": "Mayaz Rakib",
         "email": "mayaz@rakib.com.au",
