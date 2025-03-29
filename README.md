@@ -1,6 +1,6 @@
-This repository contains a generic template for an Electron application.
+This is the official repository of the Cello application.
 
-The following is a table detailing the tools and frameworks used in this template.
+The following is a table detailing the tools and frameworks used in this project.
 
 | Tool | Purpose |
 | --- | --- |
