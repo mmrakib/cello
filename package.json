@@ -1,5 +1,5 @@
 {
-    "name": "electron_template",
+    "name": "cello",
     "version": "0.1.0",
     "description": "A generic template for an Electron application using Typescript, Vite and Forge.",
     "license": "AGPL-3.0-or-later",
